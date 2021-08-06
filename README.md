@@ -3,7 +3,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -11,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Neoxs/ESI-library">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ESI LIB</h3>
@@ -33,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](/relative/path/to/images/screenshot.png?raw=true)
+![Screenshot](https://drive.google.com/file/d/1jkIJD5Q7qIITfWs8cqITy4JqdT7cIygP/view?usp=sharing)
 
 
 <!-- ROADMAP -->
@@ -77,7 +76,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@YacineKharoubi2](https://twitter.com/YacineKharoubi2) - m.abdelkaderkharoubi@esi-sba.dz
 
-Project Link: [https://github.com/Neoxs/ESI-library](https://github.com/Neoxs/ESI-library)
+Project Link: [https://eloquent-kepler-b44278.netlify.app/](https://eloquent-kepler-b44278.netlify.app/)
 
 
 
@@ -108,15 +107,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Neoxs/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Neoxs/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Neoxs/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Neoxs/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Neoxs/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Neoxs/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Neoxs/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Neoxs/repo/issues
-[license-shield]: https://img.shields.io/github/license/Neoxs/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Neoxs/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Neoxs
+[contributors-shield]: https://img.shields.io/github/contributors/Neoxs/ESI-library.svg?style=for-the-badge
+[contributors-url]: https://github.com/Neoxs/ESI-library/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Neoxs/ESI-library.svg?style=for-the-badge
+[forks-url]: https://github.com/Neoxs/ESI-library/network/members
+[stars-shield]: https://img.shields.io/github/stars/Neoxs/ESI-library.svg?style=for-the-badge
+[stars-url]: https://github.com/Neoxs/ESI-library/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Neoxs/ESI-library.svg?style=for-the-badge
+[issues-url]: https://github.com/Neoxs/ESI-library/issues
+[license-shield]: https://img.shields.io/github/license/Neoxs/ESI-library.svg?style=for-the-badge
+[license-url]: https://github.com/Neoxs/ESI-library/blob/master/LICENSE.txt
