@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot](https://drive.google.com/file/d/1jkIJD5Q7qIITfWs8cqITy4JqdT7cIygP/view?usp=sharing)
+![Screenshot](./images/screenshot.png)
 
 
 <!-- ROADMAP -->
@@ -74,7 +74,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@YacineKharoubi2](https://twitter.com/YacineKharoubi2) - m.abdelkaderkharoubi@esi-sba.dz
+Yacine Kharoubi - [@YacineKharoubi2](https://twitter.com/YacineKharoubi2) - m.abdelkaderkharoubi@esi-sba.dz
 
 Project Link: [http://esilib.tech/](http://esilib.tech/)
 
