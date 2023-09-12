@@ -9,6 +9,7 @@
 	body {
 		background-color: _palette(bg);
 		color: _palette(fg);
+		overflow-x: hidden;
 	}
 
 	body, input, select, textarea {

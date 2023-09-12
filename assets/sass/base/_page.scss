@@ -39,7 +39,7 @@
 			'url("images/overlay.png")',
 			'linear-gradient(45deg, #{_palette(bg1)} 15%, #{_palette(bg2) 85%})',
 		));
-
+		overflow-x: hidden;
 		// Stops initial animations until page loads.
 			&.is-preload {
 				*, *:before, *:after {
